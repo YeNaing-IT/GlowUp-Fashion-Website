@@ -100,6 +100,3 @@ GlowUp-Fashion-Website/
 
 GitHub: [@YeNaing-IT](https://github.com/YeNaing-IT)
 
-## License
-
-This project is available for learning and portfolio purposes. Add a `LICENSE` file if you wish to specify formal reuse permissions.
