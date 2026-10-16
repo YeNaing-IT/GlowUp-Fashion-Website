@@ -4,7 +4,7 @@ A modern fashion website project designed to present clothing, style, and fashio
 
 ## Preview
 
-**Live Website:** [Explore GlowUp Fashion](https://ye-naing-it.github.io/GlowUp-Fashion-Website/)
+**Live Website:** [Explore GlowUp Fashion](https://yenaing-it.github.io/GlowUp-Fashion-Website/)
 
 Explore the GlowUp Fashion Website through the screenshots below, showcasing its homepage, product listings, fashion collections, and blog section.
 
