@@ -2,18 +2,25 @@
 
 A modern fashion website project designed to present clothing, style, and fashion collections through an attractive and user-friendly web interface.
 
-## Preview 
+## Preview
 
-**Website:** [View Live Website](https://ye-naing-it.github.io/GlowUp-Fashion-Website/)
+**Live Website:** [Explore GlowUp Fashion](https://ye-naing-it.github.io/GlowUp-Fashion-Website/)
+
+Explore the GlowUp Fashion Website through the screenshots below, showcasing its homepage, product listings, fashion collections, and blog section.
 
 ### Homepage
-<img width="1857" height="911" alt="homepage" src="https://github.com/user-attachments/assets/6ea5e179-372b-4692-8cce-d9ae7ee15d4a" />
+<img width="100%" alt="GlowUp Fashion Website homepage" src="https://github.com/user-attachments/assets/6ea5e179-372b-4692-8cce-d9ae7ee15d4a" />
+
 ### Products
-<img width="1852" height="827" alt="product" src="https://github.com/user-attachments/assets/ce0316a7-944b-48ca-af67-206850e8b13e" />
-### Collection
-<img width="1857" height="907" alt="collection" src="https://github.com/user-attachments/assets/63fa3824-3158-4a7e-b369-7b5a118a5977" />
-### Blogs
-<img width="1857" height="907" alt="blog" src="https://github.com/user-attachments/assets/4141651d-60e1-47e3-98fb-ffcbf2d0b051" />
+<img width="100%" alt="GlowUp Fashion product listings" src="https://github.com/user-attachments/assets/ce0316a7-944b-48ca-af67-206850e8b13e" />
+
+### Collections
+<img width="100%" alt="GlowUp Fashion collections page" src="https://github.com/user-attachments/assets/63fa3824-3158-4a7e-b369-7b5a118a5977" />
+
+### Blog
+<img width="100%" alt="GlowUp Fashion blog page" src="https://github.com/user-attachments/assets/4141651d-60e1-47e3-98fb-ffcbf2d0b051" />
+
+
 
 
 
